@@ -1,6 +1,6 @@
 {
   "name": "@nqduy180500/api-chat-zns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect to api chat sms",
   "main": "lib/index.js",
   "scripts": {
